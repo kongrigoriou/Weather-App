@@ -1,6 +1,6 @@
 # Weather-App
 
-This Weather Application is designed to provide information about the weather for any city worldwide. It is a Java-based application that utilizes the Swing framework for the graphic user interface (GUI). Users van input the name of a city and get instant access to weather information such as temperature, humidity and windspeed.
+This Weather Application is designed to provide information about the weather for any city worldwide. It is a Java-based application that utilizes the Swing framework for the graphic user interface (GUI). Users can input the name of a city and get instant access to weather information such as temperature, humidity and windspeed.
 
 <p align ="center";"> <img src="WeatherAppImg.png" height="280"> </p>
 
